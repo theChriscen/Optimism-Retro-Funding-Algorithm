@@ -1,1 +1,3 @@
-# Optimism-Retro-Funding-Algorithm
+# Optimism Retro Funding Algorithm
+
+The Goldilocks algorithm is a key component of Optimism’s Retro-Funding Evaluation, designed to reward onchain builders (projects) that demonstrate steady and balanced contributions across multiple metrics, with a strong focus on retention. However, as Optimism Season 7 shifts its priority to driving Total Value Locked (TVL), the current weight configuration reveals a significant limitation: it favors established projects while overlooking "rising stars"—emerging projects with shorter track records but substantial growth potential and impact. This exclusion risks undervaluing innovative contributors critical to achieving Season 7’s TVL objectives. This report examines these shortcomings, proposes refined metric and variant weights, and demonstrates how these adjustments better align with Optimism’s goal of rewarding impact while preserving the algorithm’s foundational strengths.
