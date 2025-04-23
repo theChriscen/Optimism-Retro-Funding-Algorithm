@@ -4,13 +4,16 @@ The Goldilocks algorithm is a key component of Optimism’s Retro-Funding Evalua
 
 ### Shortcomings of the Current Weight Configuration
 1. Equal Metric Weights Undermine TVL Focus and Exclude Rising Stars:
+
 All metrics are weighted equally at 0.25, despite total value locked (TVL) being Season 7’s primary target. Metrics like trace_count and monthly_active_farcaster_users, while informative, do not directly contribute to TVL and dilute the focus on value-centric projects. Furthermore, this equal weighting overlooks the unique strengths of rising stars, which often demonstrate strong growth metrics rather than established performance.
 
 2. Vulnerability to Artificial Activity:
+   
 The lack of bot-filtered metrics (e.g., transaction_count_bot_filtered) allows unverified or artificial activity to influence scores.
 Projects with inflated metrics due to bot activity could receive undeserved rewards, compromising fairness and the recognition of genuine value creation.
 
 3. Platform Bias Towards Farcaster:
+   
 Relying exclusively on monthly_active_farcaster_users restricts community assessment to a single platform.
 Projects with robust engagement on alternative platforms (e.g., X, Discord) are undervalued, reducing inclusivity and potentially excluding rising stars that thrive on diverse channels.
 
