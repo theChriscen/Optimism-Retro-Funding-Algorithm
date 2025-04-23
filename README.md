@@ -17,6 +17,8 @@ Projects with robust engagement on alternative platforms (e.g., X, Discord) are 
 ### Proposed Adjustments to the Goldilocks Algorithm
 The proposed changes recalibrate the algorithm by structuring the metric weights into three key categories—TVL Drivers, Transactions, and User Metrics—following a 50-30-20 weighting approach. This framework reflects Retro-Funding’s methodology of evaluating onchain impact through financial commitment (TVL), transaction activity, and user adoption, while emphasizing growth to spotlight rising stars.
 
+![image](https://github.com/theChriscen/Optimism-Retro-Funding-Algorithm/blob/main/goldilocks.jpg)
+
 Using the 50-30-20 Metric Weight Methodology
 
 TVL Drivers (50%):
